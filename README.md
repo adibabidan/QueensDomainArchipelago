@@ -1,6 +1,6 @@
 # Queen's Domain Archipelago
 
-## IN ACTIVE DEVELOPMENT - NOT YET READY FOR USE IN MULTIWORLDS
+**IN ACTIVE DEVELOPMENT - NOT YET READY FOR USE IN MULTIWORLDS**
 if you want to help with early development PLEASE make your way to the [Queen's Domain Thread](https://discord.com/channels/731205301247803413/1566938930278957258) in the public Archipelago discord server and shoot a message my way.
 
 ## How to Download (if i asked you for help in the discord server):
